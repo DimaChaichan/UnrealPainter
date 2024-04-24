@@ -1,6 +1,6 @@
 # Unreal Painter
 <p align="center">
-  <img src="./assets/logo_big.png" width="250"/>
+  <img src="./Assets/logo_big.png" width="250"/>
 </p>
 
 This project is an easy to use mesh painter for the Unreal Engine.\
@@ -9,8 +9,8 @@ You can define textures (RenderTargets) and then use it in the material.
 
 Inspired by [Ryan Brucks](https://shaderbits.com/blog/uv-dilation) and [Tom Looman](https://www.tomlooman.com/unreal-engine-render-character-wounds/)
 
-![Demo 1](./assets/demo_01.gif)\
-![Demo 2](./assets/demo_02.gif)
+![Demo 1](./Assets/demo_01.gif)\
+![Demo 2](./Assets/demo_02.gif)
 
 ## Install 
 Simply add this project to your content folder in your Unreal Project. 
