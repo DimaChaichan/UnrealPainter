@@ -23,7 +23,7 @@ The function requires a Meshes array as **BST_PaintSetupData**.
 Struct **BST_PaintSetupData:**
 - Mesh: On which mesh to paint
 - Material Index: Which material index should be used
-- Unwrap: Is used when the PaintSystem is bundled. See here: [Baker](#Use Baker)
+- Unwrap: Is used when the PaintSystem is bundled. See here: [Baker](#use-baker)
 - UVsOffset: If your UVs are outside the normal 0-1 range. e.g. MetaHumen Body
 - Maps: BST_PaintMapData, Which maps should be used
 
